@@ -306,4 +306,102 @@ Esta herramienta cuenta con una gran variedad de complementos o plugins que ayud
 
 
 # Maven
-[comment]: <> "Hernan"
+
+
+<div style="text-align:center">
+    <img src="Source/img/maven01.png" alt="GitHub" style="width: 25%;" />
+</div>
+
+Imagen tomada de [aquí.](https://maven.apache.org/images/maven-logo-black-on-white.png)
+
+
+### ¿Qué es? 
+
+[Maven](https://maven.apache.org) 
+
+Es una herramienta de software que provee ayuda para la gestión y construcción de proyectos **Java** con un modelo de construcción más simple que herramientas anteriores y basado en XML. Busca entonces, definir de forma clara un proyecto, publicar información del mismo y compartir los archivos JAR sin problema alguno. 
+
+Estandariza la configuración de un proyecto y el ciclo de vida del mismo, además, contempla la corrección de errores y la intengración continua entre versiones del proyecto. Así mismo, cuenta con ejecución de pruebas unitarias y automatizadas, tests, entre otras. 
+
+
+### POM 
+
+Maven permite que la gestión de dependencias (ya sean entre módulos o con varias versiones) no sea compplicada. Esto, gracias a que se debe indicar mediante un fichero de configuración de Maven del proyecto POM los módulos que hacen parte del mismo y las librerías del software.
+
+<div style="text-align:center">
+    <img src="Source/img/maven03.png" alt="GitHub" style="width: 25%;" />
+</div>
+<br/>
+Podemos ver el proyecto, las licencias, el sitio web y el repositorio con el control de versiones, entre otras cosas. 
+
+El POM entonces, surge de la necesidad de reducir las problemáticas con las librerías y sus versiones, así mismo como las dependencias que estas tengan. Ese POM se crea al momento de definir un artefacto, creando un fichero POM.xml, que será el encargado de guardar la información mostrada anteriormente. 
+
+
+### Objetivos
+
+Maven, como idea basada en herramienta para crear y gestionar proyectos Java, lo que pretende es permitir al desarrollador comprenda el estado de desarrollo de un proyecto en el período de tiempo más corto. Es [así](https://maven.apache.org/what-is-maven.html) que Maven define areas de interés como: 
+
+- Hacer el proceso de construcción más simple, debido a que esta herramienta proporciona diferentes métodos para lograr proteger a los desarrolladores de muchos detalles.
+- Proporcionar un sistema de construcción que sea uniforme, ya que Maven crea proyectos con modelos POM y un conjunto de complementos. Esto además ahorra tiempo.
+- Proporcionar proyectos de información de calidad, al proporcionar información útil del proyecto (tomado del POM) y en parte se genera a partir de las fuentes del proyecto. Por ejemplo, se puede proporcionar información tal que:
+	- Cambios de registros.
+	- Fuentes con referencias cruzadas.
+	- Listas de correo gestionadas por el proyecto.
+	- Dependencias utilizadas por el proyecto.
+- Mejorar las prácticas de desarrollo, debido a que Maven recopila los principios actuales para el desarrollo de mejores prácticas y así mismo facilita la orientación de un proyecto en esta propia dirección. Esto anterior, mediante ejecución y generación de informes, entre otros. Así mismo, Maven presenta pautas sobre cómo diseñar la estructura de directorios de un proyecto; mediante el uso de diseños propuestos y una fácil navegación. También, ayuda a cumplir con directrices como:
+	- Mantener código de prueba separado.
+	- Uso de convenciones de nomenclatura de casos de prueba.
+	- Ayudar al flujo de trabajo de proyectos, como liberación y gestión de problemas. 
+
+
+### Características
+
+- Promueve un sistema para la gestión de dependencias.
+- Permite reutilizar código y librerías; ya que hace uso de software libre y repositorios públicos.
+- Es multiplataforma ya que trabaja tanto en Linux como en Windows.
+- Puede trabajar con mecanismos extensibles, ya que se crean plugins costumizables.
+- Es software libre.
+
+
+### Ciclo de vida
+
+Para comprender el ciclo de vida de un proyecto Maven, se pueden ver las partes principales: 
+
+- **Validation:** Confirma si el proyecto cargado es correcto. 
+- **Compile:** Se encarga de generar ficheros .class.
+- **Test:** Ejecuta los test de JUnit existentes.
+- **Package:** Genera ficheros .jar con los .class compartidos.
+- **Integration test:** Procesar y desplegar el código en algún entorno.
+- **Verify:** Se encarga de verificar si el código empaquetado es válido.
+- **Install:** Copia el fichero .jar a nuestro computador. (Estos se pueden utilizar en otros proyectos). 
+- **Deploy:** Copia el fichero .jar a un servidor remoto, para que esté disponible en un proyecto Maven.
+
+Para ejecutar una de estas basta con escribir "nvm + nombre" y se ejecutará en cadena desde validation. 
+
+Sin embargo, Maven define otras tareas no necesariamente obligatorias (adicionales): 
+
+- **Clean**: Elimna todos los .class y .jar generados.
+- **Assembly**: Genera un .zip para instalar nuestro programa java. 
+- **Site**: Genera un sitibo web con la información del proyecto. 
+- **Site-deploy:** Sube el sitio web al servidor configurado. 
+
+<div style="text-align:center">
+    <img src="Source/img/maven02.webp" alt="GitHub" style="width: 25%;" />
+</div>
+
+### Información adicional 
+
+[Aquí](https://maven.apache.org/download.cgi) el link para acceder a la descarga de Maven.<br/>
+[Aquí](https://maven.apache.org/users/index.html) una guía sobre la instalación y POM. <br/>
+[Aquí](http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/) una pequeña guía para crear un proyecto Maven. <br/>
+
+
+
+
+
+
+
+
+
+
+
