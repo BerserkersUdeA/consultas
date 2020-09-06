@@ -220,9 +220,21 @@ Gradle al ser una herramienta tan flexible y potente, tiene una gran cantidad de
   - **Caché de dependencia de terceros:** Las dependencias de repositorios remotos se descargan y almacenan en caché localmente, las compilaciones posteriores utilizan los artifacts almacenados en caché para evitar el tráfico de red innecesario.
   - **Compara builds:** Resalta de forma rápida las diferencias entre compilaciones, lo que hace que el análisis de la causa raíz sea mucho más rápido y eficaz.
 
-
 ### Complementos de Gradle
 Gradle permite construir desde **microservicios** hasta **aplicaciones móviles**, puede ser utilizado por pequeños **startups** como por grandes empresas, ya que ayuda a los equipos a desarrollar, automatizar y entregar software de calidad en un menor tiempo, aumentando su eficiencia.
+
+Esta herramienta cuenta con una gran variedad de complementos o plugins que ayudan agilizar la construcción, entre los cuales destacamos los siguientes:
+
+- **javamuc.gradle-semantic-build-versioning:** Proporciona soporte para vel ersionado semántico de las compilaciones, es fácil de usar y configurar.
+- **io.freefair.maven-publish-war:** Permite crear una publicación de mavenWeb.
+- **io.freefair.maven-publish-java:** Crea una publicación mavenJava.
+- **org.mozilla.rust-android-gradle.rust-android:** Un complemento que ayuda a construir bibliotecas Rust JNI con Cargo para su uso en proyectos de Android.
+- **net.wooga.build-unity:** Este complemento proporciona tareas para exportar proyectos de plataforma desde los proyectos de Unity3D.
+- **de.db.vz.msintplugin:** Este complemento nos permitirá ejecutar pruebas de integración de microservicio con docker.
+- **com.bmuschko.docker-remote-api:** Nos facilita la gestión de imágenes y contenedores Docker.
+- **com.google.cloud.tools.jib:** Crea un contenedor para tu aplicación Java.
+
+**Gradle** cuenta con paquetes para ser implementado en cualquier plataforma su gran versatilidad permite trabajar con monorepos o multirepositorios, modelando, sistematizando y construyendo soluciones exitosas, de forma rápida y precisa.
 
 
 # Maven
