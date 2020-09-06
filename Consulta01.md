@@ -220,7 +220,7 @@ Sigue un modelo de desarrollo de núcleo abierto donde la funcionalidad principa
 	<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" alt="Gitlab" style="zoom:10%;" />
 </div>
 
-Logo tomado de[ aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
+Logo tomado de [aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
 
 
 
@@ -236,9 +236,9 @@ Bitbucket tiene tres modelos de implementación: Cloud, Bitbucket Server y Data 
 
 
 <div style="text-align:center">
-	<img src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1224" alt="bitbicket" style="zoom:150%;" />
+	<img src="Source/img/bitbucket-atlassian-logo.svg" alt="bitbicket" style="zoom:150%;" />
 </div>
-Logo tomado de [aquí](https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1224)
+Logo tomado de [aquí]("https://bitbucket.org")
 
 
 
