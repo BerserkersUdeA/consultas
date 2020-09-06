@@ -239,7 +239,7 @@ Bitbucket tiene tres modelos de implementación: Cloud, Bitbucket Server y Data 
 	<img src="Source/img/bitbucket-atlassian-logo.svg" alt="bitbicket" style="zoom:150%;" />
 </div>
 
-Logo tomado de [aquí](https://bitbucket.org)
+> Logo tomado de [aquí](https://bitbucket.org)
 
 
 
