@@ -1,7 +1,13 @@
 # Consulta 01: Git, Gradle y Maven
 
-# Git
+1. [Git](#git)
+    * [GitHub, GitLab y BitBucket](#github-gitlab-y-bitbucket)
+2. [Gradle](#gradle)
+3. [Maven](#maven)
 
+_ _ _ 
+# Git
+_ _ _ 
 
 <div style="text-align:center">
     <img src="Source/img/git01.png" alt="GitHub" style="width: 25%;" />
@@ -243,10 +249,9 @@ Logo tomado de [aquí](https://bitbucket.org)
 
 
 
-
-
+_ _ _
 # Gradle
-
+_ _ _ 
 
 Gradle es una herramienta de código abierto para automatizar la construcción de proyectos, se centra en la flexibilidad y el rendimiento. 
 
@@ -304,9 +309,9 @@ Esta herramienta cuenta con una gran variedad de complementos o plugins que ayud
 
 **Gradle** cuenta con paquetes para ser implementado en cualquier plataforma su gran versatilidad permite trabajar con monorepos o multirepositorios, modelando, sistematizando y construyendo soluciones exitosas, de forma rápida y precisa.
 
-
+_ _ _ 
 # Maven
-
+_ _ _ 
 
 <div style="text-align:center">
     <img src="Source/img/maven01.png" alt="GitHub" style="width: 25%;" />
