@@ -204,7 +204,7 @@ Como empresa, GitHub gana dinero vendiendo repositorios de código privados aloj
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 25%;" />
 </div>
 
-Logo tomado de aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Logo tomado de [aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 GitHub fue fundada en 2008 y fue comprada por Mycrosoft en 2018 y a la fecha tiene alojados más de 100 millones de repositorios de todo tipo de proyectos. Además del servicio de alojamiento de repositorios, GitHub es la desarrolladora de dos aplicaciones ampliamente usadas en la actualidad, la primera ***electron*** que permite renderizar aplicaciones web para que se ejecuten en el escritorio como programas stand alone y ***Atom*** el cual es un editor de código desarrollado a partir de electron.
 
