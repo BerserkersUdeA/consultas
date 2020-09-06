@@ -330,8 +330,7 @@ Maven permite que la gestión de dependencias (ya sean entre módulos o con vari
 <div style="text-align:center">
     <img src="Source/img/maven03.png" alt="GitHub" style="width: 25%;" />
 </div>
-Imagen tomada de [aquí.](https://www.javiergarzas.com/2014/06/maven-en-10-min.html)
-
+<br/>
 Podemos ver el proyecto, las licencias, el sitio web y el repositorio con el control de versiones, entre otras cosas. 
 
 El POM entonces, surge de la necesidad de reducir las problemáticas con las librerías y sus versiones, así mismo como las dependencias que estas tengan. Ese POM se crea al momento de definir un artefacto, creando un fichero POM.xml, que será el encargado de guardar la información mostrada anteriormente. 
