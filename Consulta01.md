@@ -204,7 +204,7 @@ Como empresa, GitHub gana dinero vendiendo repositorios de código privados aloj
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 25%;" />
 </div>
 
-Logo tomado de aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Logo tomado de [aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 GitHub fue fundada en 2008 y fue comprada por Mycrosoft en 2018 y a la fecha tiene alojados más de 100 millones de repositorios de todo tipo de proyectos. Además del servicio de alojamiento de repositorios, GitHub es la desarrolladora de dos aplicaciones ampliamente usadas en la actualidad, la primera ***electron*** que permite renderizar aplicaciones web para que se ejecuten en el escritorio como programas stand alone y ***Atom*** el cual es un editor de código desarrollado a partir de electron.
 
@@ -220,7 +220,7 @@ Sigue un modelo de desarrollo de núcleo abierto donde la funcionalidad principa
 	<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" alt="Gitlab" style="zoom:10%;" />
 </div>
 
-Logo tomado de[ aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
+Logo tomado de [aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
 
 
 
@@ -236,9 +236,9 @@ Bitbucket tiene tres modelos de implementación: Cloud, Bitbucket Server y Data 
 
 
 <div style="text-align:center">
-	<img src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1224" alt="bitbicket" style="zoom:150%;" />
+	<img src="Source/img/bitbucket-atlassian-logo.svg" alt="bitbicket" style="zoom:150%;" />
 </div>
-Logo tomado de [aquí](https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1224)
+Logo tomado de [aquí]("https://bitbucket.org")
 
 
 
