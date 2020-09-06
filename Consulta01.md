@@ -330,7 +330,7 @@ Maven permite que la gestión de dependencias (ya sean entre módulos o con vari
 <div style="text-align:center">
     <img src="Source/img/maven03.png" alt="GitHub" style="width: 25%;" />
 </div>
-Imagen tomada de [aquí.](https://www.javiergarzas.com/wp-content/uploads/2014/06/Captura-de-pantalla-2014-06-04-a-las-23.23.32-300x171.png)
+Imagen tomada de [aquí.](https://www.javiergarzas.com/2014/06/maven-en-10-min.html)
 
 Podemos ver el proyecto, las licencias, el sitio web y el repositorio con el control de versiones, entre otras cosas. 
 
@@ -391,9 +391,9 @@ Sin embargo, Maven define otras tareas no necesariamente obligatorias (adicional
 
 ### Información adicional 
 
-- [Aquí](https://maven.apache.org/download.cgi) el link para acceder a la descarga de Maven.
-- [Aquí](https://maven.apache.org/users/index.html) una guía sobre la instalación y POM. 
-- [Aquí](http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/) una pequeña guía para crear un proyecto Maven. 
+[Aquí](https://maven.apache.org/download.cgi) el link para acceder a la descarga de Maven.<br/>
+[Aquí](https://maven.apache.org/users/index.html) una guía sobre la instalación y POM. <br/>
+[Aquí](http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/) una pequeña guía para crear un proyecto Maven. <br/>
 
 
 
