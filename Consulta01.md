@@ -8,7 +8,7 @@
 </div>
 
 
-Imagen tomada de [aqui.](https://medium.com/@jclopex/que-es-git-desde-0-7678f4c3598d)<br/>
+> Imagen tomada de [aqui.](https://medium.com/@jclopex/que-es-git-desde-0-7678f4c3598d)<br/>
 
 [Git](https://git-scm.com/) es un software de **control de versiones** diseñado por [**Linus Torvalds**](https://es.wikipedia.org/wiki/Linus_Torvalds), pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un **gran número de archivos de código fuente**. Es decir **Git** nos proporciona las herramientas para desarrollar un trabajo en equipo de manera inteligente y rápida y por *trabajo* nos referimos a algún software o página que implique código el cual necesitemos hacerlo con un grupo de personas.
 
@@ -21,7 +21,7 @@ En cuanto a derechos de autor Git es un **software libre** distribuible bajo los
 </div>
 
 
-Imagen tomada de [aqui.](https://blog.dinahosting.com/herramientas-de-control-de-versiones/)<br/>
+> Imagen tomada de [aqui.](https://blog.dinahosting.com/herramientas-de-control-de-versiones/)<br/>
 
 ## ¿Qué es control de versiones?
 
@@ -38,7 +38,7 @@ Muy sencillo, son todas las herramientas que nos permiten hacer todas esas modif
 </div>
 
 
-Imagen tomada de [aqui.](https://medium.com/@jointdeveloper/sistemas-de-control-de-versiones-qu%C3%A9-son-y-por-qu%C3%A9-amarlos-24b6957e716e)<br/><br/>
+> Imagen tomada de [aqui.](https://medium.com/@jointdeveloper/sistemas-de-control-de-versiones-qu%C3%A9-son-y-por-qu%C3%A9-amarlos-24b6957e716e)<br/><br/>
 [Sobre el Control de Versiones.](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git)
 <br/>
 
@@ -60,7 +60,7 @@ Esto nos lleva a las tres secciones principales de un proyecto de Git: El direct
 
 ![](Source/img/git04.png)
 
-Imagen tomada de [aqui.](https://medium.com/@_moisesdelacruz/tutorial-b%C3%A1sico-de-git-y-github-42e46ff41194)<br/>
+> Imagen tomada de [aqui.](https://medium.com/@_moisesdelacruz/tutorial-b%C3%A1sico-de-git-y-github-42e46ff41194)<br/>
 
 ## Funcionamiento de Git
 
@@ -80,7 +80,7 @@ Básicamente, Git funciona del siguiente modo:
 
 ![](Source/img/git05.png)
 
-Imagen tomada de [aqui.](https://www.syloper.com/blog/desarrollo/versionando-codigo-con-git/)
+> Imagen tomada de [aqui.](https://www.syloper.com/blog/desarrollo/versionando-codigo-con-git/)
 
 ### Guías de Instalación
 
@@ -204,7 +204,7 @@ Como empresa, GitHub gana dinero vendiendo repositorios de código privados aloj
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 25%;" />
 </div>
 
-Logo tomado de [aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+> Logo tomado de [aquí](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 GitHub fue fundada en 2008 y fue comprada por Mycrosoft en 2018 y a la fecha tiene alojados más de 100 millones de repositorios de todo tipo de proyectos. Además del servicio de alojamiento de repositorios, GitHub es la desarrolladora de dos aplicaciones ampliamente usadas en la actualidad, la primera ***electron*** que permite renderizar aplicaciones web para que se ejecuten en el escritorio como programas stand alone y ***Atom*** el cual es un editor de código desarrollado a partir de electron.
 
@@ -220,7 +220,7 @@ Sigue un modelo de desarrollo de núcleo abierto donde la funcionalidad principa
 	<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" alt="Gitlab" style="zoom:10%;" />
 </div>
 
-Logo tomado de [aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
+> Logo tomado de [aquí](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png)
 
 
 
@@ -238,9 +238,8 @@ Bitbucket tiene tres modelos de implementación: Cloud, Bitbucket Server y Data 
 <div style="text-align:center">
 	<img src="Source/img/bitbucket-atlassian-logo.svg" alt="bitbicket" style="zoom:150%;" />
 </div>
-Logo tomado de [aquí]("https://bitbucket.org")
 
-
+Logo tomado de [aquí](https://bitbucket.org)
 
 
 
@@ -252,7 +251,7 @@ Gradle es una herramienta de código abierto para automatizar la construcción d
 Los scripts de compilación de Gradle se escriben utilizando **Groovy**, el cual es un lenguaje de programación orientado a objetos implementado sobre la plataforma Java, o **Kotlin DSL (Domain Specific Language)** el cual es también un lenguaje de programación de tipado estático que corre sobre la máquina virtual de Java y que también puede ser compilado a código fuente de JavaScript.
 
 ![Texto alternativo opcional si no se carga la imagen](https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228)
-> Imagen tomada de: https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228 
+> Imagen tomada de [aquí](https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228)
 
 Gradle fue seleccionado como la herramienta **oficial** de construcción para Android y cuenta con soporte para diversas tecnologías y lenguajes.
 
@@ -269,7 +268,7 @@ Algunas de las características que ofrece esta herramienta:
 Gradle tiene una gran flexibilidad y nos permite hacer usos otros lenguajes además de **Java**, también cuenta con un sistema de **gestión de dependencias** muy estable. Gradle es altamente **personalizable y rápido** ya que completa las tareas de forma rápida y precisa **reutilizando** las salidas de las ejecuciones anteriores, sólo procesa las entradas que presentan cambios en paralelo.
 
 ![Texto alternativo opcional si no se carga la imagen](https://www.arquitecturajava.com/wp-content/uploads/diagramaGradle.gif)
-> Imagen tomada de: https://www.arquitecturajava.com/wp-content/uploads/diagramaGradle.gif
+> Imagen tomada de [aquí](https://www.arquitecturajava.com/wp-content/uploads/diagramaGradle.gif)
 
 ### Iniciar en Gradle
 Comenzar con Gradle es fácil, solo debe seguir las guías para [Descargar e Instalar Gradle](https://docs.gradle.org/current/userguide/installation.html) y luego consulte las [Guías de Introducción a Gradle](https://gradle.org/guides/#getting-started) para crear su primer proyecto, extraído desde la pagina oficial de Gradle. 
