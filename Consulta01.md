@@ -1,7 +1,7 @@
 # Consulta 01: Git, Gradle y Maven
 
 # Git
-<<<<<<< HEAD
+
 
 <div style="text-align:center">
     <img src="Source/img/git01.png" alt="GitHub" style="width: 25%;" />
@@ -242,13 +242,11 @@ Logo tomado de [aquí](https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-
 
 
 
-=======
-[comment]: <> "Cristhian"
 
 
 
 ## Github, Gitlab y BitBucket
->>>>>>> 4c331a7570cad901698cc88a9da1655cad8261b2
+
 
 Las herramientas a continuación mencionadas en un alto nivel, son sitios web y  servicios basados en la nube que ayudan a los desarrolladores a almacenar y administrar su código, así como a rastrear y controlar los cambios en su código.  A grandes rasgos, estas plataformas están construidas a partir de dos principios, control de versiones y git, ambos discutidos anteriormente.
 
